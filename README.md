@@ -36,7 +36,7 @@ Dengan menggunakan notasi here document (<@@@ ...@@@)
 - $ cat /etc/passwd | sort | pr –n | grep tty03
 - $ find /etc –print | head
 - $ head /etc/passwd | tail –5 | sort
-![Gambar 8](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_Tugas-5-praktikum-sistem-operasi/blob/main/gambar/7.png)
+![Gambar 8](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_Tugas-5-praktikum-sistem-operasi/blob/main/gambar/8.png)
 
 ## 9. Gunakan perintah $ who | cat | cat | sort | pr | head | cat | tail dan perhatikan hasilnya.
 ![Gambar 9](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_Tugas-5-praktikum-sistem-operasi/blob/main/gambar/9.png)
