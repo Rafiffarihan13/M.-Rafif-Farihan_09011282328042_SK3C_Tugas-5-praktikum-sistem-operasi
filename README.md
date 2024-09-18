@@ -19,12 +19,13 @@
 ![Gambar 5](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_Tugas-5-praktikum-sistem-operasi/blob/main/gambar/5.png)
 
 ## 6. Urutkan kalimat berikut :
-Jakarta
-Bandung
-Surabaya
-Padang
-Palembang
-Lampung
+* Jakarta
+* Bandung
+* Surabaya
+* Padang
+* Palembang
+* Lampung
+  
 Dengan menggunakan notasi here document (<@@@ ...@@@)
 ![Gambar 6](https://github.com/Rafiffarihan13/M.-Rafif-Farihan_09011282328042_SK3C_Tugas-5-praktikum-sistem-operasi/blob/main/gambar/6.png)
 
